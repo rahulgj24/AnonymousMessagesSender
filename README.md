@@ -1,6 +1,6 @@
 # Anonymous-Messages-Sender
 <p align="center">
-<img src="https://telegra.ph/file/9b4bd17f96598dd55e1f7.jpg" width="2560", height="2837"></p>
+<img src="https://telegra.ph/file/9b4bd17f96598dd55e1f7.jpg" width="520", height="520"></p>
 
 <p align="center"><i>A Telegram Bot to Anonymize the Sender of Messages or Media.</i></p>
 <HR>
