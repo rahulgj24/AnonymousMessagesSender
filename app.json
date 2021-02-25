@@ -1,0 +1,26 @@
+{
+  "name": "Anonymous Messages Sender",
+  "description": "A bot to hide the Sender of Messages",
+  "repository": "https://github.com/hackelite01/AnonymousMessagesSender",
+  "logo": "https://telegra.ph/file/9b4bd17f96598dd55e1f7.jpg",
+  "keywords": ["telegram", "Anonymous Sender", "Hide sender","telegram bot"],
+  "env": {
+     "BOT_TOKEN": {
+      "description": "Your Bot token from @Botfather",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "Your API_ID from https://my.telegram.org/apps ",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Your API_HASH from https://my.telegram.org/apps",
+      "value": ""
+    }
+   },
+   "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
