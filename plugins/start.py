@@ -25,9 +25,9 @@ else:
 
 
 REPLY_MARKUP = InlineKeyboardMarkup([
-    [InlineKeyboardButton("👻¸ Support Group 👻¸",
+    [InlineKeyboardButton("👻¸• Support Group 👻¸•",
                           url="t.me/hackelite01")],
-    [InlineKeyboardButton("👻",
+    [InlineKeyboardButton("👻Owner",
                           url="t.me/mayank1rajput")]])
 
 
