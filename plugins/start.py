@@ -15,7 +15,7 @@ Just Forward me Some messages or
 media and I will **Anonymize** that !!
 
 You Can too Clone me :-
-https://github.com/hackelite01/AnonymousMessagesSender
+https://github.com/hackelite01/
 """
 
 if var.START_MESSAGE is not None:
@@ -26,9 +26,9 @@ else:
 
 REPLY_MARKUP = InlineKeyboardMarkup([
     [InlineKeyboardButton("👻¸• Support Group 👻¸•",
-                          url="t.me/hackelite01")],
+                          url="https://t.me/joinchat/T3aIzosOtB8VewBt")],
     [InlineKeyboardButton("👻Owner",
-                          url="t.me/mayank1rajput")]])
+                          url="t.me/Rahul_Prajapati")]])
 
 
 @Client.on_message(filters.command('start') & filters.private)
